@@ -13,7 +13,7 @@ Here some ideias of projects or challenges for you to practice:
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) (PT)
 
 Places where you can practice algorithms and coding interviews:
-- [Hackerrank](https://www.hackerrank.com/)
+- [Hackerrank](https://www.hackerrank.com/) (EN)
 
 Here you can practice while you are playing:
-- [Codewars](https://www.codewars.com/)
+- [Codewars](https://www.codewars.com/) (EN)
