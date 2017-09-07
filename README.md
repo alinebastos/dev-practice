@@ -11,3 +11,9 @@ Here some ideias of projects or challenges for you to practice:
 
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) (PT - EN)
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) (PT)
+
+Places where you can practice algorithms and coding interviews:
+- [Hackerrank](https://www.hackerrank.com/)
+
+Here you can practice while you are playing:
+- [Codewars](https://www.codewars.com/)
