@@ -19,3 +19,4 @@ Places where you can practice algorithms and coding interviews:
 Here you can practice while you are playing:
 - [Codewars](https://www.codewars.com/) (EN)
 - [CodeFights](https://codefights.com/) (EN)
+- [CodeCombat](https://codecombat.com/) (EN)
