@@ -12,9 +12,12 @@ Here some ideias of projects or challenges for you to practice:
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) (PT - EN)
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) (PT)
 - [JavaScript30](https://javascript30.com/) (EN)
+- [Topcoder](https://www.topcoder.com) (EN)
 
 Places where you can practice algorithms and coding interviews:
 - [Hackerrank](https://www.hackerrank.com/) (EN)
+- [Coderbyte](https://coderbyte.com/) (EN)
+- [Sphere Online Judge](http://br.spoj.com/) (PT)
 
 Here you can practice while you are playing:
 - [Codewars](https://www.codewars.com/) (EN)
