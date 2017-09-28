@@ -23,7 +23,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Challenger.js](http://rileyjshaw.com/challenger/) (EN)
 
 ## Games
-You can practice while you are playing:
+You can practice while you are playing.
 - [Codewars](https://www.codewars.com/) (EN)
 - [CodeFights](https://codefights.com/) (EN)
 - [CodeCombat](https://codecombat.com/) (EN)
