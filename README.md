@@ -16,6 +16,9 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Hackerrank](https://www.hackerrank.com/) (EN)
 - [Coderbyte](https://coderbyte.com/) (EN)
 - [Sphere Online Judge](http://br.spoj.com/) (PT)
+- [CodeEval](https://www.codeeval.com/) (EN)
+- [Exercism](http://exercism.io/) (EN)
+- [Challenger.js](http://rileyjshaw.com/challenger/) (EN)
 
 Here you can practice while you are playing:
 - [Codewars](https://www.codewars.com/) (EN)
@@ -28,3 +31,4 @@ Here you can practice while you are playing:
 - [Elevator Saga](http://play.elevatorsaga.com/) (EN)
 - [Git Games](http://www.git-game.com/) (EN)
 - [Hacker Org](http://www.hacker.org/) (EN)
+- [CheckiO](https://checkio.org/) (EN)
