@@ -1,13 +1,15 @@
 # Frontend Practice
 Practice your frontend skills with these ideas.
 
+## Open Source Projects
 The best thing for you to practice, and give back to the community, is to contribute with Open Source projects.
 
 - [Code Triage](https://www.codetriage.com/) (EN)
 - [Divertidalista](https://github.com/training-center/divertidalista) (PT)
 - [Lista Maravilhosa de Projetos Open Source](https://github.com/camilatigre/listamaravilhosaopensource) (PT - EN)
 
-Here some ideias of projects, challenges and coding interviews for you to practice:
+## Challenges
+Here some ideias of projects, challenges and coding interviews for you to practice.
 
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) (PT - EN)
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) (PT)
@@ -20,7 +22,8 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Exercism](http://exercism.io/) (EN)
 - [Challenger.js](http://rileyjshaw.com/challenger/) (EN)
 
-Here you can practice while you are playing:
+## Games
+You can practice while you are playing:
 - [Codewars](https://www.codewars.com/) (EN)
 - [CodeFights](https://codefights.com/) (EN)
 - [CodeCombat](https://codecombat.com/) (EN)
