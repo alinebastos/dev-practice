@@ -35,3 +35,4 @@ You can practice while you are playing.
 - [Git Games](http://www.git-game.com/) (EN)
 - [Hacker Org](http://www.hacker.org/) (EN)
 - [CheckiO](https://checkio.org/) (EN)
+- [CSS Dinner](https://flukeout.github.io/) (EN)
