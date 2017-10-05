@@ -29,6 +29,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 #### CSS
 - [100dayscss](https://100dayscss.com/) (EN)
 - [Daily CSS Images](http://dailycssimages.com/) (EN)
+- [Enjoy CSS](http://enjoycss.com/) (EN)
 
 ## Games
 You can practice while you are playing.
@@ -46,15 +47,16 @@ You can practice while you are playing.
 - [Hacker Org](http://www.hacker.org/) (EN)
 - [CheckiO](https://checkio.org/) (EN)
 
-#### CSS  
+#### CSS
 - [CSS Dinner](https://flukeout.github.io/) (EN)
 - [Flexbox Froggy](http://flexboxfroggy.com/) (EN)
 - [Flexbox Defense](http://www.flexboxdefense.com/) (EN)
 - [Grid Garden](http://cssgridgarden.com/) (EN)
-
+- [Flexplorer](http://bennettfeely.com/flexplorer/) (EN)
 
 #### Vim
 - [HJKL](http://www.vim.org/scripts/script.php?script_id=3409) (EN)
 - [VIM Adventures](https://vim-adventures.com/) (EN)
 - [Vim Genius](http://www.vimgenius.com/) (EN)
+- [Open VIM](http://www.openvim.com/) (EN)
 
