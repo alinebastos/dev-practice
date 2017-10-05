@@ -11,9 +11,10 @@ The best thing for you to practice, and give back to the community, is to contri
 ## Challenges
 Here some ideias of projects, challenges and coding interviews for you to practice.
 
+#### General
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) (PT - EN)
-- [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) (PT)
 - [JavaScript30](https://javascript30.com/) (EN)
+- [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) (PT)
 - [Topcoder](https://www.topcoder.com) (EN)
 - [Hackerrank](https://www.hackerrank.com/) (EN)
 - [Coderbyte](https://coderbyte.com/) (EN)
@@ -21,11 +22,18 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [CodeEval](https://www.codeeval.com/) (EN)
 - [Exercism](http://exercism.io/) (EN)
 - [Challenger.js](http://rileyjshaw.com/challenger/) (EN)
+- [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) (EN)
+- [100daysfrontend](http://100daysfrontend.com/) (EN)
+- [Daily UI](http://www.dailyui.co/) (EN)
+
+#### CSS
+- [100dayscss](https://100dayscss.com/) (EN)
+- [Daily CSS Images](http://dailycssimages.com/) (EN)
 
 ## Games
 You can practice while you are playing.
 
-### General
+#### General
 - [Codewars](https://www.codewars.com/) (EN)
 - [CodeFights](https://codefights.com/) (EN)
 - [CodeCombat](https://codecombat.com/) (EN)
@@ -38,14 +46,14 @@ You can practice while you are playing.
 - [Hacker Org](http://www.hacker.org/) (EN)
 - [CheckiO](https://checkio.org/) (EN)
 
-### CSS  
+#### CSS  
 - [CSS Dinner](https://flukeout.github.io/) (EN)
 - [Flexbox Froggy](http://flexboxfroggy.com/) (EN)
 - [Flexbox Defense](http://www.flexboxdefense.com/) (EN)
 - [Grid Garden](http://cssgridgarden.com/) (EN)
 
 
-### Vim
+#### Vim
 - [HJKL](http://www.vim.org/scripts/script.php?script_id=3409) (EN)
 - [VIM Adventures](https://vim-adventures.com/) (EN)
 - [Vim Genius](http://www.vimgenius.com/) (EN)
