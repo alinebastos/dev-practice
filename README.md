@@ -24,6 +24,8 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 
 ## Games
 You can practice while you are playing.
+
+### General
 - [Codewars](https://www.codewars.com/) (EN)
 - [CodeFights](https://codefights.com/) (EN)
 - [CodeCombat](https://codecombat.com/) (EN)
@@ -35,4 +37,16 @@ You can practice while you are playing.
 - [Git Games](http://www.git-game.com/) (EN)
 - [Hacker Org](http://www.hacker.org/) (EN)
 - [CheckiO](https://checkio.org/) (EN)
+
+### CSS  
 - [CSS Dinner](https://flukeout.github.io/) (EN)
+- [Flexbox Froggy](http://flexboxfroggy.com/) (EN)
+- [Flexbox Defense](http://www.flexboxdefense.com/) (EN)
+- [Grid Garden](http://cssgridgarden.com/) (EN)
+
+
+### Vim
+- [HJKL](http://www.vim.org/scripts/script.php?script_id=3409) (EN)
+- [VIM Adventures](https://vim-adventures.com/) (EN)
+- [Vim Genius](http://www.vimgenius.com/) (EN)
+
