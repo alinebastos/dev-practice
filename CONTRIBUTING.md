@@ -7,8 +7,8 @@ Your contributions are always welcome!
 - Create a file section if needed.
   - Add section description.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Add your links: `- [link-name](http://example.com/)`
-- Add lang flag after the link.
+- Add your links: `- [link-name](http://example.com/) :flag:`
+- Add respective lang flag after the link.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - Send a Pull Request.
