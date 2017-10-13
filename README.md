@@ -1,5 +1,5 @@
 # Frontend Practice
-Practice your frontend skills with these ideas.
+Practice your skills with these ideas.
 
 ## Open Source Projects
 The best thing for you to practice, and give back to the community, is to contribute with Open Source projects.
