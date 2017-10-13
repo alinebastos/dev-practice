@@ -31,6 +31,9 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Daily CSS Images](http://dailycssimages.com/) :us:
 - [Enjoy CSS](http://enjoycss.com/) :us:
 
+## Online Hackathons
+- [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) :us:
+
 ## Games
 You can practice while you are playing.
 
@@ -59,7 +62,4 @@ You can practice while you are playing.
 - [VIM Adventures](https://vim-adventures.com/) :us:
 - [Vim Genius](http://www.vimgenius.com/) :us:
 - [Open VIM](http://www.openvim.com/) :us:
-
-## Online Hackathons
-- [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) :us:
 
