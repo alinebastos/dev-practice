@@ -1,4 +1,4 @@
-# Frontend Practice
+# Developer Practice
 Practice your skills with these ideas.
 
 ## Open Source Projects
