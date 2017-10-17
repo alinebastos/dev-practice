@@ -13,6 +13,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 
 #### General
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) :brazil:/:us:
+- [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) :brazil:/:us:
 - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) :us:
 - [JavaScript30](https://javascript30.com/) :us:
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
