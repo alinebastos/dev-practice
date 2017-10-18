@@ -66,3 +66,6 @@ You can practice while you are playing.
 - [Vim Genius](http://www.vimgenius.com/) :us:
 - [Open VIM](http://www.openvim.com/) :us:
 
+## Challenges
+- [DEV na estrada](http://devnaestrada.com.br/) :brazil:
+- [hipsters.tech](hipsters.tech) :brazil:
