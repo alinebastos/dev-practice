@@ -65,4 +65,5 @@ You can practice while you are playing.
 - [VIM Adventures](https://vim-adventures.com/) :us:
 - [Vim Genius](http://www.vimgenius.com/) :us:
 - [Open VIM](http://www.openvim.com/) :us:
+- [Vim Snake](http://www.vimsnake.com/):us:
 
