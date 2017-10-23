@@ -28,6 +28,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [100daysfrontend](http://100daysfrontend.com/) :us:
 - [Daily UI](http://www.dailyui.co/) :us:
 - [URI Online Judge](https://www.urionlinejudge.com.br/) :brazil:/:us:/:es:
+- [LeetCode](https://leetcode.com/) :us:
 
 #### CSS
 - [100dayscss](https://100dayscss.com/) :us:
