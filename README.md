@@ -54,6 +54,7 @@ You can practice while you are playing.
 - [Git Games](http://www.git-game.com/) :us:
 - [Hacker Org](http://www.hacker.org/) :us:
 - [CheckiO](https://checkio.org/) :us:
+- [GeekHunter](https://www.geekhunter.com.br/) :brazil:
 
 #### CSS
 - [CSS Dinner](https://flukeout.github.io/) :us:
