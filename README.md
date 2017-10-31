@@ -54,7 +54,6 @@ You can practice while you are playing.
 - [Cyber DoJo](http://www.cyber-dojo.org/) :us:
 - [Code Monkey](https://www.playcodemonkey.com/) :us:
 - [Elevator Saga](http://play.elevatorsaga.com/) :us:
-- [Git Games](http://www.git-game.com/) :us:
 - [Hacker Org](http://www.hacker.org/) :us:
 - [CheckiO](https://checkio.org/) :us:
 
@@ -74,4 +73,5 @@ You can practice while you are playing.
 
 #### GIT
 - [Learn Git Branching](https://learngitbranching.js.org/) :us:
+- [Git Games](http://www.git-game.com/) :us:
 
