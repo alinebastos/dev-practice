@@ -75,3 +75,6 @@ You can practice while you are playing.
 - [Learn Git Branching](https://learngitbranching.js.org/) :us:
 - [Git Games](http://www.git-game.com/) :us:
 
+## Podcast
+- [DEV na estrada](http://devnaestrada.com.br/) :brazil:
+- [hipsters.tech](hipsters.tech) :brazil:
