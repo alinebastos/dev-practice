@@ -72,3 +72,6 @@ You can practice while you are playing.
 - [Open VIM](http://www.openvim.com/) :us:
 - [Vim Snake](http://www.vimsnake.com/):us:
 
+#### GIT
+- [Learn Git Branching](http://www.vim.org/scripts/script.php?script_id=3409) :us:
+
