@@ -56,6 +56,7 @@ You can practice while you are playing.
 - [Elevator Saga](http://play.elevatorsaga.com/) :us:
 - [Hacker Org](http://www.hacker.org/) :us:
 - [Screeps](https://screeps.com/) :us:
+- [JS Robot](https://lab.reaal.me/jsrobot/) :us:
 
 #### CSS
 - [CSS Dinner](https://flukeout.github.io/) :us:
