@@ -9,7 +9,7 @@ The best thing for you to practice, and give back to the community, is to contri
 - [Lista Maravilhosa de Projetos Open Source](https://github.com/camilatigre/listamaravilhosaopensource) :brazil:/:us:
 
 ## Ideas
-Lots of ideas to practice what you are learning.
+Lots of ideas.
 - [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
 
 ## Challenges
