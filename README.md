@@ -11,6 +11,7 @@ The best thing for you to practice, and give back to the community, is to contri
 ## Ideas
 Lots of ideas.
 - [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
+- [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) :us:
 
 ## Challenges
 Here some ideias of projects, challenges and coding interviews for you to practice.
