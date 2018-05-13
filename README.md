@@ -41,11 +41,13 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [URI Online Judge](https://www.urionlinejudge.com.br/) :brazil:/:us:/:es:
 - [UVA](https://uva.onlinejudge.org/) :us:
 
-
 #### CSS
 - [100dayscss](https://100dayscss.com/) :us:
 - [Daily CSS Images](http://dailycssimages.com/) :us:
 - [Enjoy CSS](http://enjoycss.com/) :us:
+
+#### Data Science
+- [Kaggle](https://www.kaggle.com/) :us:
 
 ## Online Hackathons
 - [Challenge Rocket](https://challengerocket.com/hackathons-list.html) :us:
