@@ -36,6 +36,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [LeetCode](https://leetcode.com/) :us:
 - [LintCode](http://www.lintcode.com/) :us:
 - [Regex Crossword](https://regexcrossword.com/) :us:
+- [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) :us:
 - [Sphere Online Judge](http://br.spoj.com/) :brazil:
 - [Topcoder](https://www.topcoder.com) :us:
 - [URI Online Judge](https://www.urionlinejudge.com.br/) :brazil:/:us:/:es:
