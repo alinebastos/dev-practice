@@ -48,6 +48,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 
 #### Data Science
 - [Kaggle](https://www.kaggle.com/) :us:
+- [DataQuest](https://www.dataquest.io/) :us:
 - [DrivenData](https://www.drivendata.org/) :us:
 
 ## Online Hackathons
