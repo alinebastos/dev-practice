@@ -49,6 +49,9 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Daily CSS Images](http://dailycssimages.com/) :us:
 - [Enjoy CSS](http://enjoycss.com/) :us:
 
+#### Ruby
+- [Ruby Quiz](http://rubyquiz.com/) :us:
+
 #### Data Science
 - [Kaggle](https://www.kaggle.com/) :us:
 - [DataQuest](https://www.dataquest.io/) :us:
