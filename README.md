@@ -26,6 +26,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Code:Nation](https://www.codenation.com.br/) :brazil:
 - [Coderbyte](https://coderbyte.com/) :us:
 - [Daily UI](http://www.dailyui.co/) :us:
+- [DojoPuzzles.com](http://dojopuzzles.com/) :brazil:
 - [Exercism](http://exercism.io/) :us:
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) :brazil:/:us:
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) :brazil:/:us:
