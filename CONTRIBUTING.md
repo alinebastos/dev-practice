@@ -10,5 +10,6 @@ Your contributions are always welcome!
 - Add your links: `- [link-name](http://example.com/) :flag:`
 - Add respective lang flag after the link.
 - Check your spelling and grammar.
+- Make sure to place your link in alphabetical order.
 - Make sure your text editor is set to remove trailing whitespace.
 - Send a Pull Request.
