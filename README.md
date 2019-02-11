@@ -86,7 +86,6 @@ You can practice while you are playing.
 - [Grid Garden](http://cssgridgarden.com/) :us:
 
 #### GIT
-- [Git Games](http://www.git-game.com/) :us:
 - [Learn Git Branching](https://learngitbranching.js.org/) :us:
 
 #### Vim
