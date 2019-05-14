@@ -58,6 +58,9 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [DataQuest](https://www.dataquest.io/) :us:
 - [DrivenData](https://www.drivendata.org/) :us:
 
+#### Mathematic
+- [Project Euler](https://projecteuler.net/):us:
+
 ## Online Hackathons
 - [Challenge Rocket](https://challengerocket.com/hackathons-list.html) :us:
 - [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) :us:
