@@ -1,7 +1,9 @@
 # Developer Practice
+
 Practice your skills with these ideas.
 
 ## Open Source Projects
+
 The best thing for you to practice, and give back to the community, is to contribute with Open Source projects.
 
 - [Code Triage](https://www.codetriage.com/) :us:
@@ -9,9 +11,11 @@ The best thing for you to practice, and give back to the community, is to contri
 - [Lista Maravilhosa de Projetos Open Source](https://github.com/camilatigre/listamaravilhosaopensource) :brazil:/:us:
 
 ## Challenges
+
 Here some ideias of projects, challenges and coding interviews for you to practice.
 
 #### General
+
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) :brazil:/:us:
 - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) :us:
 - [JavaScript30](https://javascript30.com/) :us:
@@ -28,18 +32,23 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Daily UI](http://www.dailyui.co/) :us:
 
 #### CSS
+
 - [100dayscss](https://100dayscss.com/) :us:
 - [Daily CSS Images](http://dailycssimages.com/) :us:
 - [Enjoy CSS](http://enjoycss.com/) :us:
+- [Flexbox](https://flexbox.io//) :us:
 
 ## Online Hackathons
+
 - [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) :us:
 - [Challenge Rocket](https://challengerocket.com/hackathons-list.html) :us:
 
 ## Games
+
 You can practice while you are playing.
 
 #### General
+
 - [Codewars](https://www.codewars.com/) :us:
 - [CodeFights](https://codefights.com/) :us:
 - [CodeCombat](https://codecombat.com/) :us:
@@ -53,6 +62,7 @@ You can practice while you are playing.
 - [CheckiO](https://checkio.org/) :us:
 
 #### CSS
+
 - [CSS Dinner](https://flukeout.github.io/) :us:
 - [Flexbox Froggy](http://flexboxfroggy.com/) :us:
 - [Flexbox Defense](http://www.flexboxdefense.com/) :us:
@@ -60,8 +70,8 @@ You can practice while you are playing.
 - [Flexplorer](http://bennettfeely.com/flexplorer/) :us:
 
 #### Vim
+
 - [HJKL](http://www.vim.org/scripts/script.php?script_id=3409) :us:
 - [VIM Adventures](https://vim-adventures.com/) :us:
 - [Vim Genius](http://www.vimgenius.com/) :us:
 - [Open VIM](http://www.openvim.com/) :us:
-
