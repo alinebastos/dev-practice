@@ -34,6 +34,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Daily UI](http://www.dailyui.co/) :us:
 - [DojoPuzzles.com](http://dojopuzzles.com/) :brazil:
 - [Exercism](http://exercism.io/) :us:
+- [FrontLoops](https://frontloops.io/) :us:
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) :brazil:/:us:
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) :brazil:/:us:
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) :us:
@@ -49,6 +50,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Topcoder](https://www.topcoder.com) :us:
 - [URI Online Judge](https://www.urionlinejudge.com.br/) :brazil:/:us:/:es:
 - [UVA](https://uva.onlinejudge.org/) :us:
+- [Upcase](https://thoughtbot.com/upcase) :us:
 
 #### CSS
 
