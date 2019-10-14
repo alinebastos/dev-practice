@@ -15,7 +15,10 @@ The best thing for you to practice, and give back to the community, is to contri
 Lots of ideas.
 
 - [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
+- [App Idea Generator](https://appideagenerator.com/) :us:
 - [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) :us:
+- [Github's Noops](https://noopschallenge.com/) :us:
+- [Karan/Projects](https://github.com/karan/Projects) :us:
 
 ## Challenges
 
@@ -28,6 +31,8 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) :us:
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
 - [Challenger.js](http://rileyjshaw.com/challenger/) :us:
+- [Code Academy](https://www.codecademy.com/) :us:
+- [CodeChef](https://www.codechef.com/) :us:
 - [CodeEval](https://www.codeeval.com/) :us:
 - [Code:Nation](https://www.codenation.com.br/) :brazil:
 - [Coderbyte](https://coderbyte.com/) :us:
@@ -62,6 +67,10 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 #### Ruby
 
 - [Ruby Quiz](http://rubyquiz.com/) :us:
+
+#### Javascript
+
+- [Free Code Camp](https://www.freecodecamp.org/) :us:
 
 #### Data Science
 
