@@ -120,3 +120,9 @@ You can practice while you are playing.
 - [VIM Adventures](https://vim-adventures.com/) :us:
 - [Vim Genius](http://www.vimgenius.com/) :us:
 - [Vim Snake](http://www.vimsnake.com/):us:
+
+
+## Learning Platforms
+
+#### Kotlin
+- [Kotlin Hands-On](https://play.kotlinlang.org/hands-on/overview) :us:
