@@ -151,3 +151,4 @@ The best courses to learning
 - [Curso Git e GitHub Ninja](https://www.udemy.com/course/git-e-github-ninja/) :brazil:
 - [Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/) :brazil:
 - [JS com TDD na Prática](https://www.udemy.com/course/js-com-tdd-na-pratica/) :brazil:
+- [Kotlin Hands-On](https://play.kotlinlang.org/hands-on/overview) :us: :reactjs:
