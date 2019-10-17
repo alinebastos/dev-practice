@@ -125,4 +125,4 @@ You can practice while you are playing.
 ## Learning Platforms
 
 #### Kotlin
-- [Kotlin Hands-On](https://play.kotlinlang.org/hands-on/overview) :us:
+- [Kotlin Hands-On](https://play.kotlinlang.org/hands-on/overview) :us: :reactjs:
