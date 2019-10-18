@@ -112,7 +112,7 @@ You can practice while you are playing.
 #### GIT
 
 - [Learn Git Branching](https://learngitbranching.js.org/) :us:
-
+  
 #### Vim
 
 - [HJKL](http://www.vim.org/scripts/script.php?script_id=3409) :us:
@@ -126,3 +126,28 @@ You can practice while you are playing.
 
 #### Kotlin
 - [Kotlin Hands-On](https://play.kotlinlang.org/hands-on/overview) :us:
+
+#### Multi-language
+- [Codennation](https://www.codenation.dev/) :brazil:
+
+### Javascript
+- [Rocketseat](https://rocketseat.com.br/starter) :brazil:
+  #### Rockseat YouTube Channel
+  - [YouTube Channel](https://www.youtube.com/rocketseat) :brazil:
+
+
+## Courses
+
+The best courses to learning
+
+## Free courses
+
+- [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/) :brazil:
+
+## Discount courses
+
+- [Javascritp Ninja](https://www.udemy.com/course/curso-javascript-ninja/)  :brazil:
+- [Reactjs Ninja](https://www.udemy.com/course/curso-reactjs-ninja/) :brazil:
+- [Curso Git e GitHub Ninja](https://www.udemy.com/course/git-e-github-ninja/) :brazil:
+- [Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/) :brazil:
+- [JS com TDD na Prática](https://www.udemy.com/course/js-com-tdd-na-pratica/) :brazil:
