@@ -60,6 +60,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 #### CSS
 
 - [100dayscss](https://100dayscss.com/) :us:
+- [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS#id01) :brazil:
 - [Daily CSS Images](http://dailycssimages.com/) :us:
 - [Enjoy CSS](http://enjoycss.com/) :us:
 - [Flexbox](https://flexbox.io//) :us:
