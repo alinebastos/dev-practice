@@ -17,6 +17,7 @@ Lots of ideas.
 - [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
 - [App Idea Generator](https://appideagenerator.com/) :us:
 - [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) :us:
+- [Florin Pop/App Ideas](https://github.com/florinpop17/app-ideas) :us:
 - [Github's Noops](https://noopschallenge.com/) :us:
 - [Karan/Projects](https://github.com/karan/Projects) :us:
 
