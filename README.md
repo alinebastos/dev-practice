@@ -42,6 +42,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Exercism](http://exercism.io/) :us:
 - [FrontLoops](https://frontloops.io/) :us:
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) :brazil:/:us:
+- [Frontend Mentor](https://www.frontendmentor.io/) :us:
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) :brazil:/:us:
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) :us:
 - [Hacker earth](https://www.hackerearth.com) :us:
