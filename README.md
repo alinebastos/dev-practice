@@ -30,6 +30,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [100daysfrontend](http://100daysfrontend.com/) :us:
 - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) :us:
 - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) :us:
+- [Advent of Code](https://adventofcode.com/) :us:
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
 - [Challenger.js](http://rileyjshaw.com/challenger/) :us:
 - [Code Academy](https://www.codecademy.com/) :us:
