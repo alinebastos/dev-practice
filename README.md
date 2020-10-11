@@ -82,6 +82,10 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [DataQuest](https://www.dataquest.io/) :us:
 - [DrivenData](https://www.drivendata.org/) :us:
 
+#### Python
+- [Basic Python Exercises - Google](https://developers.google.com/edu/python/exercises/basic) :us:
+- [Practice Python](https://www.practicepython.org/) :us:
+
 ## Online Hackathons
 
 - [Challenge Rocket](https://challengerocket.com/hackathons-list.html) :us:
