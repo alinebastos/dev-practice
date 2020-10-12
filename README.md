@@ -17,6 +17,7 @@ Lots of ideas.
 - [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
 - [App Idea Generator](https://appideagenerator.com/) :us:
 - [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) :us:
+- [Criar seu próprio guia de referência para projetos de software](https://www.linkedin.com/feed/update/urn:li:activity:6706199186401972224/) :brazil:
 - [Florin Pop/App Ideas](https://github.com/florinpop17/app-ideas) :us:
 - [Github's Noops](https://noopschallenge.com/) :us:
 - [Karan/Projects](https://github.com/karan/Projects) :us:
@@ -40,6 +41,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Coderbyte](https://coderbyte.com/) :us:
 - [Daily UI](http://www.dailyui.co/) :us:
 - [DojoPuzzles.com](http://dojopuzzles.com/) :brazil:
+- [Edabit](https://edabit.com/challenges) :us:
 - [Exercism](http://exercism.io/) :us:
 - [FrontLoops](https://frontloops.io/) :us:
 - [Frontend Challenges](https://github.com/LFeh/frontend-challenges) :brazil:/:us:
@@ -84,7 +86,11 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 
 #### Python
 - [Basic Python Exercises - Google](https://developers.google.com/edu/python/exercises/basic) :us:
+- [CodingBat](https://codingbat.com/python) :us:
 - [Practice Python](https://www.practicepython.org/) :us:
+
+#### Java
+- [CodingBat](https://codingbat.com/java) :us:
 
 ## Online Hackathons
 
