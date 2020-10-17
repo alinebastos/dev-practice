@@ -76,8 +76,8 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 
 #### Javascript
 
-- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) :us:
-- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) :us:
+- [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) :us:
+- [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) :us:
 - [Free Code Camp](https://www.freecodecamp.org/) :us:
 
 #### Data Science
