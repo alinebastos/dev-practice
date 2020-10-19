@@ -31,6 +31,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [100daysfrontend](http://100daysfrontend.com/) :us:
 - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) :us:
 - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) :us:
+- [Ace Front End Challenges](https://www.acefrontend.com/challenges) :us:
 - [Advent of Code](https://adventofcode.com/) :us:
 - [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) :brazil:
 - [Challenger.js](http://rileyjshaw.com/challenger/) :us:
@@ -38,8 +39,10 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [CodeChef](https://www.codechef.com/) :us:
 - [CodeEval](https://www.codeeval.com/) :us:
 - [Code:Nation](https://www.codenation.com.br/) :brazil:
+- [CodePen Challenges](https://codepen.io/challenges/) :us:
 - [Coderbyte](https://coderbyte.com/) :us:
 - [Daily UI](http://www.dailyui.co/) :us:
+- [Dev Challenges](https://devchallenges.io/challenges) :us:
 - [DojoPuzzles.com](http://dojopuzzles.com/) :brazil:
 - [Edabit](https://edabit.com/challenges) :us:
 - [Exercism](http://exercism.io/) :us:
