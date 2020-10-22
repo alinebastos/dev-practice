@@ -90,6 +90,9 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [DataQuest](https://www.dataquest.io/) :us:
 - [DrivenData](https://www.drivendata.org/) :us:
 
+#### Mathematic
+- [Project Euler](https://projecteuler.net/):us:
+
 #### Python
 - [Basic Python Exercises - Google](https://developers.google.com/edu/python/exercises/basic) :us:
 - [CodingBat](https://codingbat.com/python) :us:
