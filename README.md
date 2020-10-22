@@ -121,6 +121,10 @@ You can practice while you are playing.
 - [Cyber DoJo](http://www.cyber-dojo.org/) :us:
 - [Elevator Saga](http://play.elevatorsaga.com/) :us:
 - [Hacker Org](http://www.hacker.org/) :us:
+- [Hora do Código de Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1) :brazil:/:us:
+- [Minecraft: Viagem aquática](https://studio.code.org/s/aquatic/stage/1/puzzle/1) :brazil:/:us:
+- [Minecraft: Jornada do Herói](https://studio.code.org/s/hero/stage/1/puzzle/1) :brazil:/:us:
+- [Programa com a Anna e a Elsa](https://studio.code.org/s/frozen/stage/1/puzzle/1) :brazil:/:us:
 - [Screeps](https://screeps.com/) :us:
 - [JS Robot](https://lab.reaal.me/jsrobot/) :us:
 
