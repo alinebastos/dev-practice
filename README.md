@@ -134,11 +134,12 @@ You can practice while you are playing.
 - [Flexbox Defense](http://www.flexboxdefense.com/) :us:
 - [Flexbox Froggy](http://flexboxfroggy.com/) :us:
 - [Flexplorer](http://bennettfeely.com/flexplorer/) :us:
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) :us:
 - [Grid Garden](http://cssgridgarden.com/) :us:
 
 #### GIT
 
-- [Learn Git Branching](https://learngitbranching.js.org/) :us:
+- [Learn Git Branching](https://learngitbranching.js.org/) :us:/:brazil:/:es:
   
 #### Vim
 
