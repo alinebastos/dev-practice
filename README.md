@@ -97,7 +97,7 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Basic Python Exercises - Google](https://developers.google.com/edu/python/exercises/basic) :us:
 - [CodingBat](https://codingbat.com/python) :us:
 - [Practice Python](https://www.practicepython.org/) :us:
-- [Pynative.com](https://pynative.com/) :ca:
+- [Pynative.com](https://pynative.com/) :us:
 #### Java
 - [CodingBat](https://codingbat.com/java) :us:
 
