@@ -64,6 +64,8 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [URI Online Judge](https://www.urionlinejudge.com.br/) :brazil:/:us:/:es:
 - [UVA](https://uva.onlinejudge.org/) :us:
 - [Upcase](https://thoughtbot.com/upcase) :us:
+- [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) :brazil:/:us:
+- [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) :brazil:/:us:
 
 #### CSS
 
@@ -73,6 +75,8 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [Daily CSS Images](http://dailycssimages.com/) :us:
 - [Enjoy CSS](http://enjoycss.com/) :us:
 - [Flexbox](https://flexbox.io//) :us:
+- [W3schools CSS Exercises](https://www.w3schools.com/css/exercise.asp) :brazil:/:us:
+- [W3schools CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS) :brazil:/:us:
 
 #### Ruby
 
@@ -83,6 +87,8 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) :us:
 - [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) :us:
 - [Free Code Camp](https://www.freecodecamp.org/) :us:
+- [W3schools JS Exercises](https://www.w3schools.com/js/exercise_js.asp) :brazil:/:us:
+- [W3schools JS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS) :brazil:/:us:
 
 #### Data Science
 
