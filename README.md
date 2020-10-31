@@ -82,13 +82,16 @@ Here some ideias of projects, challenges and coding interviews for you to practi
 
 - [Ruby Quiz](http://rubyquiz.com/) :us:
 
-#### Javascript
+#### JavaScript
 
 - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) :us:
 - [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) :us:
 - [Free Code Camp](https://www.freecodecamp.org/) :us:
 - [W3schools JS Exercises](https://www.w3schools.com/js/exercise_js.asp) :brazil:/:us:
 - [W3schools JS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS) :brazil:/:us:
+
+#### TypeScript
+- [type challenges](https://github.com/type-challenges/type-challenges) :us:
 
 #### Data Science
 
