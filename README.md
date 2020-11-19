@@ -3,6 +3,7 @@
 > Practice your skills with these ideas. Add sites with challenges, with games made to learn, and ideas do practice.
 
 ## 📕 Índice
+
 📌 [Open Source Projects](#open-source-projects)<br>
 📌 [Ideas](#ideas)<br>
 📌 [Challenges](#challenges)<br>
@@ -11,6 +12,7 @@
 ## 💻 Open Source Projects
 
 > The best thing for you to practice, and give back to the community, is to contribute with Open Source projects.
+
 | Link | Idioma |
 | ----- | :-----: |
 | [Code Triage](https://www.codetriage.com/) | :us: |
@@ -20,6 +22,7 @@
 ## 💻 Ideas
 
 > Lots of ideas.
+
 | Link | Idioma |
 | ----- | :-----: |
 | [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) | :brazil: |
