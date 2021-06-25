@@ -45,7 +45,7 @@
 | [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | :us: |
 | [Ace Front End Challenges](https://www.acefrontend.com/challenges) | :us: |
 | [Advent of Code](https://adventofcode.com/) | :us: |
-| [Apenas Crie Websites](https://github.com/estevanmaito/apenas-crie-websites) | :brazil: |
+| [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) | :us: |
 | [Challenger.js](http://rileyjshaw.com/challenger/) | :us: |
 | [Code Academy](https://www.codecademy.com/) | :us: |
 | [CodeChef](https://www.codechef.com/) | :us: |
