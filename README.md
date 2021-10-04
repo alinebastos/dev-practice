@@ -30,7 +30,6 @@
 | [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) | :us: |
 | [Criar seu próprio guia de referência para projetos de software](https://www.linkedin.com/feed/update/urn:li:activity:6706199186401972224/) | :brazil: |
 | [Florin Pop/App Ideas](https://github.com/florinpop17/app-ideas) | :us: |
-| [Github's Noops](https://noopschallenge.com/) | :us: |
 | [Karan/Projects](https://github.com/karan/Projects) | :us: |
 
 ## 💻 Challenges
@@ -40,7 +39,6 @@
 #### General
 | Link | Idioma |
 | ----- | :-----: |
-| [100daysfrontend](http://100daysfrontend.com/) | :us: |
 | [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) | :us: |
 | [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | :us: |
 | [Ace Front End Challenges](https://www.acefrontend.com/challenges) | :us: |
@@ -54,7 +52,7 @@
 | [CodePen Challenges](https://codepen.io/challenges/) | :us: |
 | [Coderbyte](https://coderbyte.com/) | :us: |
 | [Daily UI](http://www.dailyui.co/) | :us: |
-| [Dev Challenges](https://devchallenges.io/challenges) | :us: |
+| [Dev Challenges](https://devchallenges.io) | :us: |
 | [DojoPuzzles.com](http://dojopuzzles.com/) | :brazil: |
 | [Edabit](https://edabit.com/challenges) | :us: |
 | [Exercism](http://exercism.io/) | :us: |
@@ -74,7 +72,7 @@
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
 | [Topcoder](https://www.topcoder.com) | :us: |
 | [URI Online Judge](https://www.urionlinejudge.com.br/) | :brazil: :us: :es: |
-| [UVA](https://uva.onlinejudge.org/) | :us: |
+| [UVA](https://onlinejudge.org/) | :us: |
 | [Upcase](https://thoughtbot.com/upcase) | :us: |
 | [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | :brazil: :us: |
 | [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | :brazil: :us: |
@@ -85,9 +83,9 @@
 | [100dayscss](https://100dayscss.com/) | :us: |
 | [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS#id01) | :brazil: |
 | [CSSBatle](https://cssbattle.dev/) | :us: |
-| [Daily CSS Images](http://dailycssimages.com/) | :us: |
+| [Daily CSS Images](https://medium.com/coding-artist/daily-css-images-everything-you-need-to-know-e53ed6c1846c) | :us: |
 | [Enjoy CSS](http://enjoycss.com/) | :us: |
-| [Flexbox](https://flexbox.io//) | :us: |
+| [Flexbox](https://flexbox.io) | :us: |
 | [LESSTESTER](https://lesstester.com/) | :us: |
 | [SassMeister](https://www.sassmeister.com/) | :us: |
 | [W3schools CSS Exercises](https://www.w3schools.com/css/exercise.asp) | :brazil: :us: |
@@ -154,7 +152,7 @@
 | [CheckiO](https://checkio.org/) | :us: |
 | [Code Monkey](https://www.playcodemonkey.com/) | :us: |
 | [CodeCombat](https://codecombat.com/) | :us: |
-| [CodeFights](https://codefights.com/) | :us: |
+| [CodeSignal](https://codesignal.com/) | :us: |
 | [Codewars](https://www.codewars.com/) | :us: |
 | [CodinGame](https://www.codingame.com/) | :us: |
 | [Cyber DoJo](http://www.cyber-dojo.org/) | :us: |
