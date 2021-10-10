@@ -48,9 +48,12 @@
 | [Code Academy](https://www.codecademy.com/) | :us: |
 | [CodeChef](https://www.codechef.com/) | :us: |
 | [CodeEval](https://www.codeeval.com/) | :us: |
+| [Codeforces](http://codeforces.com/) | :us: |
 | [Code:Nation](https://www.codenation.com.br/) | :brazil: |
 | [CodePen Challenges](https://codepen.io/challenges/) | :us: |
 | [Coderbyte](https://coderbyte.com/) | :us: |
+| [Codewars](https://www.codewars.com/) | :us: |
+| [Codility](https://app.codility.com/programmers/) | :us: |
 | [Daily UI](http://www.dailyui.co/) | :us: |
 | [Dev Challenges](https://devchallenges.io) | :us: |
 | [DojoPuzzles.com](http://dojopuzzles.com/) | :brazil: |
@@ -67,8 +70,10 @@
 | [JavaScript30](https://javascript30.com/) | :us: |
 | [LeetCode](https://leetcode.com/) | :us: |
 | [LintCode](http://www.lintcode.com/) | :us: |
+| [Programmr](http://www.programmr.com/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
 | [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | :us: |
+| [SoloLearn](https://www.sololearn.com) | :us: |
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
 | [Topcoder](https://www.topcoder.com) | :us: |
 | [URI Online Judge](https://www.urionlinejudge.com.br/) | :brazil: :us: :es: |
@@ -133,6 +138,7 @@
 #### Java
 | Link | Idioma |
 | ----- | :-----: |
+| [CodeGym](https://codegym.cc/) | :us: |
 | [CodingBat](https://codingbat.com/java) | :us: |
 
 ## Online Hackathons
@@ -154,6 +160,7 @@
 | [CodeCombat](https://codecombat.com/) | :us: |
 | [CodeSignal](https://codesignal.com/) | :us: |
 | [Codewars](https://www.codewars.com/) | :us: |
+| [Code.org](https://code.org/learn) | :us: |
 | [CodinGame](https://www.codingame.com/) | :us: |
 | [Cyber DoJo](http://www.cyber-dojo.org/) | :us: |
 | [Elevator Saga](http://play.elevatorsaga.com/) | :us: |
