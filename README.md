@@ -70,12 +70,14 @@
 | [JavaScript30](https://javascript30.com/) | :us: |
 | [LeetCode](https://leetcode.com/) | :us: |
 | [LintCode](http://www.lintcode.com/) | :us: |
+| [OsProgamadores](https://osprogramadores.com/desafios/) | :brazil: |
 | [Programmr](http://www.programmr.com/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
 | [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | :us: |
 | [SoloLearn](https://www.sololearn.com) | :us: |
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
 | [Topcoder](https://www.topcoder.com) | :us: |
+| [The Huxley](https://thehuxley.com/) | :brazil: :us: |
 | [URI Online Judge](https://www.urionlinejudge.com.br/) | :brazil: :us: :es: |
 | [UVA](https://onlinejudge.org/) | :us: |
 | [Upcase](https://thoughtbot.com/upcase) | :us: |
