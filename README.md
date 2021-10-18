@@ -4,10 +4,10 @@
 
 ## 📕 Índice
 
-📌 [Open Source Projects](#open-source-projects)<br>
-📌 [Ideas](#ideas)<br>
-📌 [Challenges](#challenges)<br>
-📌 [Games](#games)<br>
+📌 [Open Source Projects](#-open-source-projects)<br>
+📌 [Ideas](#-ideas)<br>
+📌 [Challenges](#-challenges)<br>
+📌 [Games](#-games)<br>
 
 ## 💻 Open Source Projects
 
