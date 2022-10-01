@@ -8,6 +8,7 @@
 📌 [Ideas](#ideas)<br>
 📌 [Challenges](#challenges)<br>
 📌 [Games](#games)<br>
+📌 [Books](#books)<br>
 
 ## 💻 Open Source Projects
 
@@ -199,6 +200,20 @@
 | [VIM Adventures](https://vim-adventures.com/) | :us: |
 | [Vim Genius](http://www.vimgenius.com/) | :us: |
 | [Vim Snake](http://www.vimsnake.com/)| :us: |
+
+## 💻 Books
+
+> The best books for anyone in the computing world
+
+#### Paid books
+| Link | Idioma |
+| ----- | :-----: |
+| [CleanCode](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=sr_1_1?adgrpid=113914054704&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1176q788z9bTWA13SPYKzhJFgdJsMNNbG4lxxQ_MGKR-9fEWddy0HM8AaApSAEALw_wcB&hvadid=457954279408&hvdev=c&hvlocphy=1001715&hvnetw=g&hvqmt=e&hvrand=15251624063225501699&hvtargid=kwd-301191331858&hydadcr=14667_10954494&keywords=clean+code&qid=1664658472&qu=eyJxc2MiOiIyLjYwIiwicXNhIjoiMS44OSIsInFzcCI6IjEuODYifQ%3D%3D&sr=8-1) |  :us: :brazil: |
+
+#### Free books
+| Link | Idioma |
+| ----- | :-----: |
+| [Apostila Linguagem C – Silvio Lago (PDF)](https://www.ime.usp.br/~slago/slago-C.pdf) | :brazil: |
 
 
 ## ✏ Seja um dos contribuidores
