@@ -40,6 +40,7 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) | :us: |
+| [30 Seconds of Code](https://www.30secondsofcode.org/) | :us: |
 | [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | :us: |
 | [Ace Front End Challenges](https://www.acefrontend.com/challenges) | :us: |
 | [Advent of Code](https://adventofcode.com/) | :us: |
