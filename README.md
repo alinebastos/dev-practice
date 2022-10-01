@@ -73,6 +73,7 @@
 | [OsProgamadores](https://osprogramadores.com/desafios/) | :brazil: |
 | [Programmr](http://www.programmr.com/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
+| [Scaler Topics](https://www.scaler.com/topics/) | :us: |
 | [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | :us: |
 | [SoloLearn](https://www.sololearn.com) | :us: |
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
@@ -82,7 +83,7 @@
 | [UVA](https://onlinejudge.org/) | :us: |
 | [Upcase](https://thoughtbot.com/upcase) | :us: |
 | [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | :brazil: :us: |
-| [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | :brazil: :us: |
+| [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | :brazil: :us: |z
 
 #### CSS
 | Link | Idioma |
