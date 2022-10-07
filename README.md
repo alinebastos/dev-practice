@@ -45,6 +45,7 @@
 | [Ace Front End Challenges](https://www.acefrontend.com/challenges) | :us: |
 | [Advent of Code](https://adventofcode.com/) | :us: |
 | [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) | :us: |
+| [Beecrowd](https://www.beecrowd.com.br) | :brazil: :us: :es: |
 | [Challenger.js](http://rileyjshaw.com/challenger/) | :us: |
 | [Code Academy](https://www.codecademy.com/) | :us: |
 | [CodeChef](https://www.codechef.com/) | :us: |
@@ -80,7 +81,6 @@
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
 | [The Huxley](https://thehuxley.com/) | :brazil: :us: |
 | [Topcoder](https://www.topcoder.com) | :us: |
-| [URI Online Judge](https://www.urionlinejudge.com.br/) | :brazil: :us: :es: |
 | [UVA](https://onlinejudge.org/) | :us: |
 | [Upcase](https://thoughtbot.com/upcase) | :us: |
 | [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | :brazil: :us: |
