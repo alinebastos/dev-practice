@@ -59,6 +59,7 @@
 | [Daily UI](http://www.dailyui.co/) | :us: |
 | [Dev Challenges](https://devchallenges.io) | :us: |
 | [DojoPuzzles.com](http://dojopuzzles.com/) | :brazil: |
+| [DMOJ](https://dmoj.ca/) | :us: |
 | [Edabit](https://edabit.com/challenges) | :us: |
 | [Exercism](http://exercism.io/) | :us: |
 | [FrontLoops](https://frontloops.io/) | :us: |
@@ -70,9 +71,12 @@
 | [Hackerrank](https://www.hackerrank.com/) | :us: |
 | [InterviewBit](https://www.interviewbit.com) | :us: |
 | [JavaScript30](https://javascript30.com/) | :us: |
+| [Kaggle](https://www.kaggle.com/) | :us: |
+| [Kattis](https://open.kattis.com/) | :us: |
 | [LeetCode](https://leetcode.com/) | :us: |
 | [LintCode](http://www.lintcode.com/) | :us: |
 | [OsProgamadores](https://osprogramadores.com/desafios/) | :brazil: |
+| [Project Euler](https://projecteuler.net/) | :us: |
 | [Programmr](http://www.programmr.com/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
 | [Scaler Topics](https://www.scaler.com/topics/) | :us: |
