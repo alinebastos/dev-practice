@@ -58,13 +58,13 @@
 | [Codility](https://app.codility.com/programmers/) | :us: |
 | [Daily UI](http://www.dailyui.co/) | :us: |
 | [Dev Challenges](https://devchallenges.io) | :us: |
-| [DojoPuzzles.com](http://dojopuzzles.com/) | :brazil: |
 | [DMOJ](https://dmoj.ca/) | :us: |
+| [DojoPuzzles.com](http://dojopuzzles.com/) | :brazil: |
 | [Edabit](https://edabit.com/challenges) | :us: |
 | [Exercism](http://exercism.io/) | :us: |
-| [FrontLoops](https://frontloops.io/) | :us: |
 | [Frontend Challenges](https://github.com/LFeh/frontend-challenges) | :brazil: :us: |
 | [Frontend Mentor](https://www.frontendmentor.io/) | :us: |
+| [FrontLoops](https://frontloops.io/) | :us: |
 | [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | :brazil:  :us: |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/) | :us: |
 | [Hacker earth](https://www.hackerearth.com) | :us: |
@@ -76,8 +76,8 @@
 | [LeetCode](https://leetcode.com/) | :us: |
 | [LintCode](http://www.lintcode.com/) | :us: |
 | [OsProgamadores](https://osprogramadores.com/desafios/) | :brazil: |
-| [Project Euler](https://projecteuler.net/) | :us: |
 | [Programmr](http://www.programmr.com/) | :us: |
+| [Project Euler](https://projecteuler.net/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
 | [Scaler Topics](https://www.scaler.com/topics/) | :us: |
 | [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | :us: |
@@ -85,8 +85,8 @@
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
 | [The Huxley](https://thehuxley.com/) | :brazil: :us: |
 | [Topcoder](https://www.topcoder.com) | :us: |
-| [UVA](https://onlinejudge.org/) | :us: |
 | [Upcase](https://thoughtbot.com/upcase) | :us: |
+| [UVA](https://onlinejudge.org/) | :us: |
 | [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | :brazil: :us: |
 | [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | :brazil: :us: |z
 
@@ -164,8 +164,8 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [CheckiO](https://checkio.org/) | :us: |
-| [Code Monkey](https://www.playcodemonkey.com/) | :us: |
 | [CodeCombat](https://codecombat.com/) | :us: |
+| [Code Monkey](https://www.playcodemonkey.com/) | :us: |
 | [CodeSignal](https://codesignal.com/) | :us: |
 | [Codewars](https://www.codewars.com/) | :us: |
 | [Code.org](https://code.org/learn) | :us: |
@@ -174,11 +174,11 @@
 | [Elevator Saga](http://play.elevatorsaga.com/) | :us: |
 | [Hacker Org](http://www.hacker.org/) | :us: |
 | [Hora do Código de Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1) | :brazil: :us: |
-| [Minecraft: Viagem aquática](https://studio.code.org/s/aquatic/stage/1/puzzle/1) | :brazil: :us: |
+| [JS Robot](https://lab.reaal.me/jsrobot/) | :us: |
 | [Minecraft: Jornada do Herói](https://studio.code.org/s/hero/stage/1/puzzle/1) | :brazil: :us: |
+| [Minecraft: Viagem aquática](https://studio.code.org/s/aquatic/stage/1/puzzle/1) | :brazil: :us: |
 | [Programa com a Anna e a Elsa](https://studio.code.org/s/frozen/stage/1/puzzle/1) | :brazil: :us: |
 | [Screeps](https://screeps.com/) | :us: |
-| [JS Robot](https://lab.reaal.me/jsrobot/) | :us: |
 
 #### CSS
 | Link | Idioma |
@@ -186,8 +186,8 @@
 | [CSS Dinner](https://flukeout.github.io/) | :us: |
 | [Flexbox Defense](http://www.flexboxdefense.com/) | :us: |
 | [Flexbox Froggy](http://flexboxfroggy.com/) | :us: |
-| [Flexplorer](http://bennettfeely.com/flexplorer/) | :us: |
 | [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) | :us: |
+| [Flexplorer](http://bennettfeely.com/flexplorer/) | :us: |
 | [Grid Garden](http://cssgridgarden.com/) | :us: |
 
 #### GIT
