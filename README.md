@@ -184,6 +184,7 @@
 | Link | Idioma |
 | ----- | :-----: |
 | [CSS Dinner](https://flukeout.github.io/) | :us: |
+| [CSS Speedrun](https://css-speedrun.netlify.app/) | :us: |
 | [Flexbox Defense](http://www.flexboxdefense.com/) | :us: |
 | [Flexbox Froggy](http://flexboxfroggy.com/) | :us: |
 | [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) | :us: |
