@@ -142,6 +142,7 @@
 | [CodingBat](https://codingbat.com/python) | :us: |
 | [Practice Python](https://www.practicepython.org/) | :us: |
 | [Pynative.com](https://pynative.com/) | :us: |
+| [Real Python](https://realpython.com/) | :us: |
 
 #### Java
 | Link | Idioma |
