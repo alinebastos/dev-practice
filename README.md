@@ -83,6 +83,7 @@
 | [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | :us: |
 | [SoloLearn](https://www.sololearn.com) | :us: |
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
+| [SPOJ](https://www.spoj.com/) | :us: |
 | [The Huxley](https://thehuxley.com/) | :brazil: :us: |
 | [Topcoder](https://www.topcoder.com) | :us: |
 | [Upcase](https://thoughtbot.com/upcase) | :us: |
