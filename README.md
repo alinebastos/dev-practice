@@ -83,14 +83,13 @@
 | [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | :us: |
 | [SoloLearn](https://www.sololearn.com) | :us: |
 | [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
+| [SPOJ](https://www.spoj.com/) | :us: |
 | [The Huxley](https://thehuxley.com/) | :brazil: :us: |
 | [Topcoder](https://www.topcoder.com) | :us: |
 | [Upcase](https://thoughtbot.com/upcase) | :us: |
 | [UVA](https://onlinejudge.org/) | :us: |
 | [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | :brazil: :us: |
 | [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | :brazil: :us: |z
-| [Exercism](https://exercism.org/) | :us: |
-| [SPOJ](https://www.spoj.com/) | :us: |
 
 #### CSS
 | Link | Idioma |
