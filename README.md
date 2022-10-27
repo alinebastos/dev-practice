@@ -39,6 +39,7 @@
 #### General
 | Link | Idioma |
 | ----- | :-----: |
+| [7 days of code Alura](https://7daysofcode.io/) | :brazil: |
 | [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) | :us: |
 | [30 Seconds of Code](https://www.30secondsofcode.org/) | :us: |
 | [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | :us: |
