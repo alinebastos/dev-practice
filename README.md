@@ -1,6 +1,7 @@
 # Developer Practice
 
-> Practice your skills with these ideas. Add sites with challenges, with games made to learn, and ideas do practice.
+> Practice your skills with these ideas.
+>  Add sites with challenges, with games made to learn, and ideas do practice.
 
 ## 📕 Índice
 
@@ -145,6 +146,7 @@
 | [Practice Python](https://www.practicepython.org/) | :us: |
 | [Pynative.com](https://pynative.com/) | :us: |
 | [Real Python](https://realpython.com/) | :us: |
+| [Learn Python](https://www.scaler.com/topics/python/) | 🇮🇳 |
 
 #### Java
 | Link | Idioma |
