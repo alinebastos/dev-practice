@@ -91,6 +91,7 @@
 | [UVA](https://onlinejudge.org/) | :us: |
 | [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | :brazil: :us: |
 | [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | :brazil: :us: |z
+| [Adaface](https://www.adaface.com/) | :us: |
 
 #### CSS
 | Link | Idioma |
