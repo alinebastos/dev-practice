@@ -1,4 +1,4 @@
-# Developer Practice
+﻿# Developer Practice
 
 > Practice your skills with these ideas. Add sites with challenges, with games made to learn, and ideas do practice.
 
@@ -205,6 +205,7 @@
 | [HJKL](http://www.vim.org/scripts/script.php?script_id=3409) | :us: |
 | [Open VIM](http://www.openvim.com/) | :us: |
 | [VIM Adventures](https://vim-adventures.com/) | :us: |
+| [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) | :us: |
 | [Vim Genius](http://www.vimgenius.com/) | :us: |
 | [Vim Snake](http://www.vimsnake.com/)| :us: |
 
