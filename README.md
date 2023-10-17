@@ -76,7 +76,7 @@
 | [Kattis](https://open.kattis.com/) | :us: |
 | [LeetCode](https://leetcode.com/) | :us: |
 | [LintCode](http://www.lintcode.com/) | :us: |
-| [OsProgamadores](https://osprogramadores.com/desafios/) | :brazil: |
+| [OsProgramadores](https://osprogramadores.com/desafios/) | :brazil: |
 | [Programmr](http://www.programmr.com/) | :us: |
 | [Project Euler](https://projecteuler.net/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
